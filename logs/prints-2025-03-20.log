@@ -1,0 +1,19 @@
+15:59:13.558 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:59:13.633 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:59:13.635 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:59:13.638 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:10:40.501 [main] INFO  testCases.TC002_LoginTest - ****** STARTING TC002_LoginTest *******
+14:10:45.999 [main] INFO  testCases.TC002_LoginTest - ***** FINISHED TC002_LoginTest ******
+14:10:51.484 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* STARTING TC001_AccountRegistrationTest ********
+14:10:52.358 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+14:10:54.497 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+14:10:54.520 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:10:59.086 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message
+14:10:59.159 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** FINISHED TC001_AccountRegistrationTest *******
+14:16:24.987 [main] INFO  testCases.TC002_LoginTest - ****** STARTING TC002_LoginTest *******
+14:16:31.236 [main] INFO  testCases.TC002_LoginTest - ***** FINISHED TC002_LoginTest ******
+14:50:57.588 [main] INFO  testCases.TC002_LoginTest - ****** STARTING TC002_LoginTest *******
+14:51:00.682 [main] INFO  testCases.TC002_LoginTest - ***** FINISHED TC002_LoginTest ******
+23:53:52.208 [main] INFO  testCases.TC002_LoginTest - ****** STARTING TC002_LoginTest *******
+23:53:55.875 [main] INFO  testCases.TC002_LoginTest - ***** FINISHED TC002_LoginTest ******
+23:56:06.665 [main] INFO  testCases.TC002_LoginTest - ****** STARTING TC002_LoginTest *******

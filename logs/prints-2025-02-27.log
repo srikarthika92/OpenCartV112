@@ -1,0 +1,19 @@
+20:43:26.414 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+20:43:27.655 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:43:27.658 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+20:43:29.728 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message
+20:43:29.789 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** FINISHED TC001_AccountRegistrationTest *******
+20:43:44.640 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* STARTING TC001_AccountRegistrationTest ********
+20:43:44.979 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+20:43:46.000 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:43:46.003 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+20:43:49.210 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message
+20:43:49.312 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** FINISHED TC001_AccountRegistrationTest *******
+20:45:29.418 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******* STARTING TC001_AccountRegistrationTest ********
+20:45:32.960 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+20:45:34.080 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******* STARTING TC001_AccountRegistrationTest ********
+20:45:35.744 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:45:35.754 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+20:45:35.921 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+20:45:37.612 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:45:37.614 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
